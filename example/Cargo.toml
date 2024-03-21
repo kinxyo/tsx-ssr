@@ -1,0 +1,8 @@
+[package]
+name = "example"
+version = "0.0.1"
+authors = ["Kinjalk Tripathi <kinjalkt3@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+dragona = { path = ".././dragona" }
