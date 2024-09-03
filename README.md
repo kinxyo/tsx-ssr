@@ -1,3 +1,6 @@
 # Dragona
 
-A backend framework in Rust that's built to handle data-intensive JavaScript web-apps (Only React for now) by providing the means of multi-threading, since it seems to be absent from major popular frameworks.
+> [!NOTE]
+> incomplete + not working on it rn.
+
+**Aim**: A backend framework in Rust that's built to handle data-intensive web-apps through multi-threading capabilties, AND also renders & serves popular frontend framework (like Vue, React) from server for better SEO and other benefits.
